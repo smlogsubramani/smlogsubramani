@@ -28,6 +28,31 @@
 <a href="https://www.hackerrank.com/smlogasubramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smlogasubramani" height="30" width="40" /></a>
 </p>
 
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smlogsubramani)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smlogsubramani&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+
+
+<!-- <table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=smlogsubramani&show_icons=true&theme=default" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlogsubramani&layout=compact&theme=default" />
+    </td>
+  </tr>
+</table> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smlogsubramani&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlogsubramani&&layout=donut" width="33%" />
+</p>
+
+
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smlogasubramani&show_icons=true&locale=en&layout=compact" alt="smlogasubramani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smlogasubramani&show_icons=true&locale=en" alt="smlogasubramani" /></p> -->
