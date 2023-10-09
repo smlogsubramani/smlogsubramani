@@ -47,7 +47,7 @@
 </table> -->
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=smlogsubramani&show_icons=true&theme=default" width="48%" />
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smlogsubramani&show_icons=true&theme=default)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlogsubramani&&layout=donut" width="33%" />
 </p>
 
