@@ -1,9 +1,38 @@
 
 <h1 align="center">Hi 👋, I'm Logasubramani sm</h1>
-<h3 align="center">A passionate Mern stack developer</h3>
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=logasubramani">「 Google Me 」</a>
+    <br>
+    「 I am a Mern stack web application developer from <b>India</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+ <a href="https://logasubramani-portfolio.netlify.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/smlogasubramani" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://instagram.com/loga_007" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://www.codechef.com/users/loga_007" target="_blank">
+  <img src="https://img.shields.io/badge/Codechef-20BEFF?&style=for-the-badge&logo=codechef&logoColor=white" alt="alsiam"  />
+  </a> 
+  <a href="https://www.hackerrank.com/smlogasubramani" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-50REFF?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
+
 
 
 [![Github](https://img.shields.io/github/followers/smlogasubramani?label=Follow&style=social)](https://github.com/smlogsubramani)
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [Full stack projects](https://github.com/smlogsubramani/Integration_mernstack)
