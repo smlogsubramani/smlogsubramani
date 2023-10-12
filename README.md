@@ -92,7 +92,7 @@
 <br></br>
 
 <a align="center" href="https://github.com/smlogasubramani/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=smlogsubramani&row=1&column=10&theme=darklover" alt="trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=smlogsubramani&row=1&column=10&theme=darkhub" alt="trophy">
 </a>
 
   
